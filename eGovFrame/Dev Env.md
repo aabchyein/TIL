@@ -25,9 +25,10 @@
 
 3. Maven 디렉터리 구조
 Best practices을 기반으로 정규화된 디렉터리 구조를 제공하고 있으며 모드 소스 파일들은 /src 디렉터리 밑에, 빌드된 output은 /target 디렉터리 밑에 위치함
-![Alt text](./image/image4.png)
 
-4. 빌드 Lifecycle
+<small>![Alt text](./image/image4.png)<small>
+
+5. 빌드 Lifecycle
 메이븐 빌드는 소프트웨어 프로젝트의 핵심적인 빌드 라이프 사이클 개념을 따르고 있으며 빌드부터 artifact의 배포까지의 라이프 사이클을 정의하고 있음
 
 ![Alt text](./image/image5.png)
